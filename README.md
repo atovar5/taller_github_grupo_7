@@ -17,7 +17,7 @@
 
 </div>
 
-# $\color{blue}\text{Problema inicial}$
+<h1 align="center">Problema inicial</h1>
 
 **Contexto:** Orange, una de las principales empresas de telecomunicaciones de Francia, necesitaba manejar mejor la relación con sus clientes (CRM, *Customer Relationship Management*). Para personalizar esa relación, la empresa usa **puntajes (scores)**: valores que un modelo calcula para cada cliente y que indican qué tan probable es cierto comportamiento.
 
