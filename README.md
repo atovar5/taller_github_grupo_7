@@ -15,10 +15,10 @@
 
 | Nombre | Codigo |
 |--------|---------|
-| Juan Barbosa Aguilar |
-| Jeronimo Gomez Sarmiento |
-| Maria Fernanda leal rojas |
-| Andres Tovar Rodriguez |
+| Juan Barbosa Aguilar | 202420510 |
+| Jeronimo Gomez Sarmiento | 202420510 |
+| Maria Fernanda leal rojas | 
+| Andres Tovar Rodriguez | 202621740 |
 
 </div>
 
