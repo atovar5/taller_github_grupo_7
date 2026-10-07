@@ -11,7 +11,7 @@
 
 | Nombre | Codigo |
 |--------|---------|
-| Juan Barbosa Aguilar | 202420510 |
+| Juan Barbosa Aguilar | 202610201 |
 | Jeronimo Gomez Sarmiento | 202420510 |
 | Maria Fernanda leal rojas | 202616497 |
 | Andres Tovar Rodriguez | 202621740 |
