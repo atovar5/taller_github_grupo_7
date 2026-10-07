@@ -1,4 +1,5 @@
- <h1 align="center">Trabajo_asistido_intro_ciencia_datos_11am_taller_github_barbosa_gomez_leal_tovar</h1>
+ <h1 align="center">Trabajo_asistido_intro_ciencia_datos_11am_taller_github_Barbosa_
+  Gomez_Leal_Tovar.</h1>
 
 <h2 align="center">KDD Cup 2009: Predicción de abandono y propensión de clientes</h2>
 
