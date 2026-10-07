@@ -20,7 +20,7 @@
 | Andres Tovar Rodriguez| 
 
 
-## Problema inicial
+# $\color{blue}\text{Problema inicial}$
 
 **Contexto:** Orange, una de las principales empresas de telecomunicaciones de Francia, necesitaba manejar mejor la relación con sus clientes (CRM, *Customer Relationship Management*). Para personalizar esa relación, la empresa usa **puntajes (scores)**: valores que un modelo calcula para cada cliente y que indican qué tan probable es cierto comportamiento.
 
@@ -39,7 +39,7 @@
 
 
 
-# Enfoque orientado a la toma de decisiones
+# $\color{blue}\text{Enfoque orientado a la toma de decisiones}$
 
 El proyecto de la **KDD Cup 2009**, en el que participó Claudia Perlich, buscaba predecir diferentes comportamientos de los clientes de Orange.
 
@@ -56,6 +56,7 @@ El objetivo no era solamente construir un modelo con buena capacidad predictiva,
 Gracias a estas predicciones, los resultados del modelo podían servir como apoyo para la toma de decisiones comerciales dentro de una empresa de telecomunicaciones.
 
 De esta manera, el proyecto muestra cómo la ciencia de datos puede transformar grandes cantidades de información en conocimiento útil para comprender mejor a los clientes y apoyar decisiones empresariales.
+
 
 ## Selección pragmática de modelos (Ensemble Selection)
 
