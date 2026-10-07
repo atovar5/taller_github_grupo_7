@@ -23,11 +23,15 @@
 
 **Problema:** Con una base de datos de clientes muy grande, con variables numéricas y categóricas, ruidosas y con muchos datos faltantes, la empresa quería predecir tres comportamientos:
 
-| Comportamiento | Qué se quería predecir |
-|----------------|------------------------|
-| $\color{brown}\text{Churn}$ | Si el cliente cambiaría de proveedor (abandono) |
-| $\color{pink}\text{Appetency}$ | Si el cliente compraría un nuevo producto o servicio |
-| $\color{green}\text{up-selling}$ | Si el cliente compraría mejoras o complementos que le ofrecen para hacer la venta más rentable |
+<div align="center">
+
+| Comportamiento | ¿Qué se quería predecir? |
+|----------------|--------------------------|
+| **Churn** (Abandono) | Si el cliente cambiaría de proveedor |
+| **Appetency** (Apetencia) | Si el cliente compraría un nuevo producto o servicio |
+| **Up-selling** (Venta ascendente) | Si el cliente compraría mejoras o complementos que le ofrecen para hacer la venta más rentable |
+
+</div>
 
 **Objetivo:** Construir modelos que superaran al sistema interno desarrollado por Orange Labs, y hacerlo con rapidez. Parte de la competencia tenía límite de tiempo para evaluar la capacidad de entregar soluciones ágiles. El desempeño se midió con el **AUC** promedio de los tres modelos.
 
@@ -35,8 +39,7 @@
 
 
 
-
-# $\color{blue}\text{Enfoque orientado a la toma de decisiones}$
+<h1 align="center"><b>Enfoque orientado a la toma de decisiones</b></h1>
 
 El proyecto de la **KDD Cup 2009**, en el que participó Claudia Perlich, buscaba predecir diferentes comportamientos de los clientes de Orange.
 
@@ -54,8 +57,7 @@ Gracias a estas predicciones, los resultados del modelo podían servir como apoy
 
 De esta manera, el proyecto muestra cómo la ciencia de datos puede transformar grandes cantidades de información en conocimiento útil para comprender mejor a los clientes y apoyar decisiones empresariales.
 
-
-## Selección pragmática de modelos (Ensemble Selection)
+<h2 align="center"><b>Selección pragmática de modelos (Selección de conjuntos)</b></h2>
 
 En lugar de apostar por un único algoritmo, el equipo de Claudia Perlich construyó una biblioteca de entre 500 y 1000 modelos para cada uno de los tres problemas (churn, appetency y up-selling). Entre ellos había regresión logística, Random Forest y árboles de decisión con boosting.
 
