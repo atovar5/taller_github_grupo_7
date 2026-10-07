@@ -28,3 +28,11 @@ Gracias a estas predicciones, los resultados del modelo podían servir como apoy
 
 De esta manera, el proyecto muestra cómo la ciencia de datos puede transformar grandes cantidades de información en conocimiento útil para comprender mejor a los clientes y apoyar decisiones empresariales.
 
+## Selección pragmática de modelos (Ensemble Selection)
+
+En lugar de apostar por un único algoritmo, el equipo de Claudia Perlich construyó una biblioteca de entre 500 y 1000 modelos para cada uno de los tres problemas (churn, appetency y up-selling). Entre ellos había regresión logística, Random Forest y árboles de decisión con boosting.
+
+Luego aplicaron Ensemble Selection, donde se eligen varios modelos de la biblioteca y se combinan sus predicciones. La idea es que cada modelo detecta patrones distintos en los datos, y al combinarlos el resultado es más robusto y preciso que el de cualquier modelo individual. Esta tecnica llevo al equipo de Claudia a ganar la copa ese año. 
+
+ La lección de esto es que probar muchas alternativas y combinar las mejores suele funcionar mejor que depender de un solo algoritmo.
+
