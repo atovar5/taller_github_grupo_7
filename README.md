@@ -17,7 +17,7 @@
 |--------|---------|
 | Juan Barbosa Aguilar | 202420510 |
 | Jeronimo Gomez Sarmiento | 202420510 |
-| Maria Fernanda leal rojas | 
+| Maria Fernanda leal rojas | 202616497 |
 | Andres Tovar Rodriguez | 202621740 |
 
 </div>
