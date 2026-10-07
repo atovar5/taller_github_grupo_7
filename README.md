@@ -9,15 +9,18 @@
 
 ## Este proyecto fue ejecutado por la científica de datos Claudia Perlich: su participación fue ganadora en el KDD Cup 2009 – Orange Challenge (tarea "Fast Challenge for CRM").
 
-## Integrantes del grupo 7
+<h2 align="center">Integrantes del grupo 7</h2>
+
+<div align="center">
 
 | Nombre |
 |--------|
-| Juan Barbosa Aguilar | 
-| Jeronimo Gomez Sarmiento| 
-| Maria Fernanda leal rojas | 
-| Andres Tovar Rodriguez| 
+| Juan Barbosa Aguilar |
+| Jeronimo Gomez Sarmiento |
+| Maria Fernanda leal rojas |
+| Andres Tovar Rodriguez |
 
+</div>
 
 # $\color{blue}\text{Problema inicial}$
 
