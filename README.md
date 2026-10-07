@@ -13,8 +13,8 @@
 
 <div align="center">
 
-| Nombre |
-|--------|
+| Nombre | Codigo |
+|--------|---------|
 | Juan Barbosa Aguilar |
 | Jeronimo Gomez Sarmiento |
 | Maria Fernanda leal rojas |
