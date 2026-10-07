@@ -64,3 +64,9 @@ En lugar de apostar por un único algoritmo, el equipo de Claudia Perlich constr
 Luego aplicaron Ensemble Selection, donde se eligen varios modelos de la biblioteca y se combinan sus predicciones. La idea es que cada modelo detecta patrones distintos en los datos, y al combinarlos el resultado es más robusto y preciso que el de cualquier modelo individual. Esta tecnica llevo al equipo de Claudia a ganar la copa ese año. 
 
  La lección de esto es que probar muchas alternativas y combinar las mejores suele funcionar mejor que depender de un solo algoritmo. 
+
+<h1 align="center"><b>Características Clave del Proyecto</b></h1>
+
+1. Trabajo de Detective y Criterio Crítico con los Datos: Más allá de elegir el algoritmo más sofisticado, el verdadero secreto del éxito del equipo de Claudia Perlich estuvo en cómo trataron la información desde el primer minuto. En lugar de meter a ciegas una base de datos gigante con miles de datos faltantes y variables ruidosas a un modelo, se dedicaron a hacer un verdadero trabajo de investigación. Revisaron cada variable con lupa para entender qué significaba en el mundo real, limpiaron las inconsistencias y evitaron trampas típicas como la filtración de datos (<i>data leakage</i>). Esta etapa demostró que en ciencia de datos la intuición, la curiosidad y el análisis crítico sobre la información son mucho más determinantes para ganar que el solo poder de cómputo.
+
+
