@@ -38,6 +38,10 @@
 **Valor para el negocio:** Con estos puntajes, la empresa puede decidir a qué clientes dirigir campañas de retención (churn), de venta de nuevos productos (appetency) y de mejoras de servicio (up-selling), en lugar de contactar a todos por igual
 
 
+<p align="center">
+  <img width="671" height="741" alt="Captura de pantalla 2026-10-07 a la(s) 6 43 03 p m" src="https://github.com/user-attachments/assets/003fc07d-c2e7-4778-9f4d-ee7a7c14e0b6" />
+</p>
+
 
 <h1 align="center"><b>Enfoque orientado a la toma de decisiones</b></h1>
 
@@ -74,3 +78,5 @@ Luego aplicaron Ensemble Selection, donde se eligen varios modelos de la bibliot
 3.  Pensar en el Negocio Antes que en la Computadora : o importante aquí no era sacar una nota perfecta en la métrica solo por presumirla, sino lograr algo que a la empresa le sirviera los lunes por la mañana. Cada resultado estaba pensado para que el equipo de ventas supiera a quién llamar, qué ofrecerle o a quién retener antes de que se cancelara el servicio. El foco siempre estuvo en resolver un problema real, no solo en correr código.
 
 4.  Aprender a Trabajar Contra el Reloj : Como la competencia exigía entregas relámpago, no había espacio para quedarse pensando semanas. La estrategia fue probar rápido, ver qué servía, corregir lo que fallaba y desechar lo que estorbaba sin rodeos. Refleja muy bien cómo se siente la presión en el mundo laboral, donde hay que tomar decisiones ágiles y entregar resultados finos con el tiempo justo.
+
+<img width="1408" height="768" alt="Gemini_Generated_Image_krbj7zkrbj7zkrbj" src="https://github.com/user-attachments/assets/36c707c2-8e4f-4109-b8f1-2789737ad495" />
