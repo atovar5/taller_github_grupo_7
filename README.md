@@ -81,3 +81,9 @@ Luego aplicaron Ensemble Selection, donde se eligen varios modelos de la bibliot
 4.  Aprender a Trabajar Contra el Reloj : Como la competencia exigía entregas relámpago, no había espacio para quedarse pensando semanas. La estrategia fue probar rápido, ver qué servía, corregir lo que fallaba y desechar lo que estorbaba sin rodeos. Refleja muy bien cómo se siente la presión en el mundo laboral, donde hay que tomar decisiones ágiles y entregar resultados finos con el tiempo justo.
 
 <img width="1408" height="768" alt="Gemini_Generated_Image_krbj7zkrbj7zkrbj" src="https://github.com/user-attachments/assets/36c707c2-8e4f-4109-b8f1-2789737ad495" />
+
+<h2 align="center"><b>Referencias Teóricas</b></h2>
+
+* **Perlich, C., Rosset, S., Lawrence, R., & Zadrozny, B. (2009).** *High-dimensional challenge learning: Stories and lessons from KDD Cup 2009.* Knowledge Discovery and Data Mining (KDD).
+* **Caruana, R., & Niculescu-Mizil, A. (2004).** *Ensemble selection from libraries of models.* Proceedings of the 21st International Conference on Machine Learning (ICML).
+* **(IA:Gemini):** Búsqueda del proyecto, errores gramaticales y generación de imagenes para la presentación.
